@@ -6,6 +6,8 @@ summary:    Most of the cost function cannot to solved in close-form. Gradient d
 categories: Deep-Learning Machine-Learning Optimization
 use_math:   true
 comments:   true
+# exclude page from index
+meta_robots: noindex
 ---
 <centre>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rhVIF-nigrY?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

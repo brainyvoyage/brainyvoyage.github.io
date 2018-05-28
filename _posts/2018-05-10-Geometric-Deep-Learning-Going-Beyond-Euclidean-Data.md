@@ -5,6 +5,8 @@ date:       2018-05-10 11:21:29
 summary:    Geometric DL- Umbrella term for emerging techniques attempting to generalise structured deep neural networks to non-Euclidean domains such as graph and manifold
 categories: Geometric-DL Deep-Learning
 use_math:   true
+# exclude page from index
+meta_robots: noindex
 ---
 [Bronstein et. al](https://arxiv.org/pdf/1611.08097.pdf) *IEEE Signal Processing*
 
